@@ -1,0 +1,53 @@
+http://wiki.joanillo.org/politica_privacitat_ASB.html
+https://www.areaverda.cat/ca/mobi_res/operar-amb-mobil/polticadeprivacitat01
+
+Política de privacitat (llocs web i aplicacions mòbils d’AREA)
+
+Barcelona de Serveis Municipals, S.A., amb domicili a Carrer Calàbria, 66, (08015) de Barcelona i amb CIF número A-08765919 (en endavant, “B:SM”), és el titular del lloc web sota el domini [www.areaverda.cat] (el “Lloc Web”) i és el proveïdor del mitjà de pagament del servei dels aplicacions mòbils de l’AREA/ESTACIONAMENT (el “Servei”). El Lloc Web i els Aplicacions mòbils tenen com a finalitat facilitar informació i accés al Servei i, en particular, proporcionar la informació i el formulari de registre necessaris per a fer ús del Servei.
+
+La Política de Privacitat plasmada a continuació és aplicable a tots els serveis accessibles des del Lloc Web en cada moment i, en particular, a les aplicacions mòbils, en tots els termes definits en les condicions d’ús i de conformitat amb totes les disposicions del mateix.
+
+1. Acceptació de la Política de Privacitat
+
+   1.1. La utilització del Lloc Web i aplicacions mòbils li atribueix la condició d’Usuari (“Usuari”) i implica l’acceptació de totes les condicions incloses en aquesta Política de Privacitat.
+
+   1.2. Així mateix, quan l’Usuari vulgui registrar-se a través del Lloc Web o aplicacions mòbils per fer ús del Servei (essent, en conseqüència, un “Usuari del Servei”), haurà de llegir i acceptar de forma expressa la present Política de Privacitat.
+
+   1.3. B:SM es reserva el dret de modificar, actualitzar o adaptar la present Política de Privacitat en qualsevol moment. L’Usuari del Servei serà notificat de qualsevol modificació a la Política de Privacitat i, en cas de voler seguint fent ús del Servei, haurà de llegir i acceptar de forma expressa la nova versió de la Política de Privacitat.
+
+   2. Seguretat i confidencialitat
+
+   2.1. B:SM, de conformitat amb el que s’estableix a la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal (la “LOPD”) i en la seva normativa de desenvolupament o la que la substitueixi, garanteix la seguretat i confidencialitat de totes les dades que puguin facilitar els Usuaris del Servei a través del Lloc Web o de l’aplicació mòbil i, particularment, mitjançant l’alta com a Usuari del Servei en les aplicacions mòbils, així com en relació a les dades que es proporcionin o que es generin durant l’ús del Servei i de les aplicacions mòbils, incloent, en concret, les dades de geolocalització dels Usuaris del Servei i demés dades d’ús del Servei.
+
+3. Finalitat del tractament de dades de caràcter personal
+
+   3.1. Sense prejudici del previst en cada un dels formularis del Lloc Web o de les aplicacions mòbils, B:SM informa als Usuaris del Servei de que disposa d’un fitxer de dades relatiu al registre i ús del Aplicacions mòbils degudament inscrit al Registre de Protecció de Dades de Catalunya.
+
+   3.2. La finalitat del tractament de les dades és que l’usuari pugui fer ús del servei en les condicions previstes en el mateix (estacionament, pagament, gestió de denúncies, etc.). Forma part de la finalitat del tractament de les dades facilitades pels usuaris, la utilització de les mateixes per tractar dades de geolocalització obtingudes a través del Servei per a la bona prestació del mateix i el bon funcionament de les aplicacions mòbils.
+
+   3.3. L’Usuari del Servei podrà autoritzar expressament a BSM, a través de la casella habilitada a l’efecte, per utilitzar les dades facilitades, per la recepció de notícies, serveis, activitats, promocions i altra informació comercial emesa per BSM per correu ordinari, correu electrònic, SMS i altres mitjans electrònics equivalents.
+
+   4.1. Mitjançant el seu registre a través del Lloc Web o el Aplicacions mòbils, l’Usuari del Servei presta el seu consentiment exprés per al tractament automatitzat i documental de les dades incloses en el formulari de registre, incloent les dades de facturació que siguin necessàries per a la prestació del Servei, així com les dades generades a través de l’ús del Servei, del Aplicacions mòbils o d’aquelles incloses posteriorment a través de l’Espai Personal. En particular, l’Usuari del Servei presta el seu consentiment exprés per al tractament automatitzat de les dades relatives a la seva geolocalització que es derivin de l’ús del Servei, tal i com es disposa en la clàusula següent.
+
+   4.2. En relació amb al procediment de registre, l’Usuari del Servei haurà de proporcionar, en el formulari de registre, les dades de contacte i de facturació que resultin necessàries per a la utilització del Servei.
+
+   4.3. B:SM informa a l’Usuari que tots els camps que apareixen marcats amb un asterisc (*) en el formulari de registre del Lloc Web o del Aplicacions mòbils són d’obligada complementació, ja que la manca d’alguna d’aquestes dades podrien impedir l’ús del Aplicacions mòbils i del Servei.
+
+5. Ús de sistemes de geolocalització
+
+   5.1. Per fer ús del Servei, l’Usuari del Servei haurà d’activar els localitzadors GPS del seu dispositiu. En aquest sentit, el Aplicacions mòbils li requerirà l’activació dels localitzadors GPS del seu dispositiu en cada accés a les Aplicacions mòbils, sempre que aquests no es trobessin prèviament activats.
+
+   5.2. L’Usuari del Servei podrà revocar en qualsevol moment el seu consentiment a l’activació dels localitzadors GPS al seu a través de l’opció corresponent al seu dispositiu. No obstant, l’Usuari del Servei no podrà fer ús del Servei ofert per les Aplicacions mòbils sense activar els localitzadors GPS del seu dispositiu.
+
+6. Cessió i/o comunicació de dades
+
+   6.1. Les dades proporcionades pels Usuaris del Servei seran tractades per BSM d’acord amb la normativa de protecció de dades i les finalitats indicades en aquesta regulació.
+
+7. Exercici dels drets d’accés, rectificació, cancel•lació i oposició
+
+   7.1. B:SM informa que tant els Usuaris del Lloc Web com i els Usuaris del Servei tenen dret a exercitar els drets d'oposició, accés, rectificació i cancel•lació en l'àmbit reconegut per la LOPD. Per a exercitar aquests drets, i per a qualsevol aclariment, els interessats podran adreçar-se per correu a B:SM, Calàbria, 66, apartat de correus 08015 de Barcelona, o bé a l’adreça electrònica: lopdbsm@bsmsa.cat
+
+8. Ús de cookies
+
+   8.1. B:SM l’informa que per utilitzar el Servei es fan servir cookies. Les cookies són fitxers físics d'informació personal allotjats en el propi terminal de l'usuari. L’usuari ha de configurar el navegador permetent l’ús de cookies, ja que en cas contrari determinades funcions del Servei no estaran disponibles.
+   

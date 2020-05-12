@@ -1,0 +1,2060 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.1004 6cd3eaec",
+  "osm3s": {
+    "timestamp_osm_base": "2020-04-30T16:33:04Z",
+    "timestamp_areas_base": "2020-03-06T11:03:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1422373015,
+  "lat": 41.3871727,
+  "lon": 2.1705250,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. de Catalunya",
+    "species": "Quercus ilex ssp. ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alzina-pl-de-catalunya_99400455045.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3048078442,
+  "lat": 41.3994958,
+  "lon": 2.2067541,
+  "tags": {
+    "name": "arbre singular: Bellaombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Prim",
+    "species": "Phytolacca dioica",
+    "species:ca": "Bellaombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-bellaombra-pl-prim_99400455038.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3647526824,
+  "lat": 41.4402427,
+  "lon": 2.1680475,
+  "tags": {
+    "name": "arbre singular: Eucaliptus de fulla estreta",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Gasela, 19",
+    "species": "Eucalyptus camaldulensis",
+    "species:ca": "Eucaliptus de fulla estreta",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eucaliptus-de-fulla-estreta-c-gasela-19_99400455019.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3978889487,
+  "lat": 41.4186046,
+  "lon": 2.2093146,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Pere IV / Prim",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-c-pere-iv-prim_99400454966.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4159636775,
+  "lat": 41.4009770,
+  "lon": 2.1470945,
+  "tags": {
+    "name": "arbre singular: Siris blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Plaça Molina",
+    "species": "Albizia procera",
+    "species:ca": "Siris blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-siris-blanc-placa-molina_99400454950.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4178837467,
+  "lat": 41.4005146,
+  "lon": 2.1468057,
+  "tags": {
+    "name": "arbre singular: Còcul",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Alfons XII, 79",
+    "species": "Cocculus laurifolius",
+    "species:ca": "Còcul",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-cocul-c-alfons-xii-79_99400455024.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4178849401,
+  "lat": 41.3994030,
+  "lon": 2.1485156,
+  "tags": {
+    "name": "arbre singular: Xicranda",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Alfons XII, 43",
+    "species": "Jacaranda mimosifolia",
+    "species:ca": "Xicranda",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-xicranda-c-alfons-xii-43_99400454977.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4185160737,
+  "lat": 41.3978637,
+  "lon": 2.1347232,
+  "tags": {
+    "name": "arbre singular: Grevillea robusta",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Via Augusta / c. Ganduxer",
+    "species": "Grevillea robusta",
+    "species:ca": "Grevillea robusta",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-grevillea-robusta-via-augusta-c-ganduxer_99400455072.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4203274163,
+  "lat": 41.3704198,
+  "lon": 2.1571356,
+  "tags": {
+    "name": "arbre singular: Alvocater",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pg. de Santa Madrona / c. Lleida",
+    "species": "Persea americana",
+    "species:ca": "Alvocater",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alvocater-pg-de-santa-madrona-c-lleida_99400455081.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479713476,
+  "lat": 41.3842744,
+  "lon": 2.1717520,
+  "tags": {
+    "name": "arbre singular: Livistona de la Xina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Canuda, 6 (pati de l'Ateneu Barcelonès)",
+    "species": "Livistona chinensis",
+    "species:ca": "Livistona de la Xina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-livistona-de-la-xina-c-canuda-6-pati-de-l-ateneu-barcelones_99400455070.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479725157,
+  "lat": 41.4048154,
+  "lon": 2.1819919,
+  "tags": {
+    "name": "arbre singular: Eritrina cresta de gall",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. C/Aragó amb C/Enamorats",
+    "species": "Erythrina crista-galli",
+    "species:ca": "Eritrina cresta de gall",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eritrina-cresta-de-gall-carago-amb-cenamorats_99400455039.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479738273,
+  "lat": 41.3746799,
+  "lon": 2.1758076,
+  "tags": {
+    "name": "arbre singular: Arbre de la llana",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. Paral·lel / pg. Josep Carner",
+    "species": "Chorisia speciosa",
+    "species:ca": "Arbre de la llana",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-arbre-de-la-llana-av-paral-lel-pg-josep-carner_99400455040.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479749091,
+  "lat": 41.3887570,
+  "lon": 2.1607406,
+  "tags": {
+    "name": "arbre singular: Margalló",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. del Doctor Letamendi",
+    "species": "Chamaerops humilis",
+    "species:ca": "Margalló",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-margallo-pl-del-doctor-letamendi_99400455057.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479755264,
+  "lat": 41.4025775,
+  "lon": 2.1731263,
+  "tags": {
+    "name": "arbre singular: Xicranda",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Sagrada Família",
+    "species": "Jacaranda mimosifolia",
+    "species:ca": "Xicranda",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-xicranda-pl-sagrada-familia_99400454975.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479757866,
+  "lat": 41.4030523,
+  "lon": 2.1728715,
+  "tags": {
+    "name": "arbre singular: Lledoner",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Sagrada Família",
+    "species": "Celtis australis",
+    "species:ca": "Lledoner",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-lledoner-pl-sagrada-familia_99400455067.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479760550,
+  "lat": 41.3975178,
+  "lon": 2.1635731,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Roger de Llúria amb av. Diagonal",
+    "species": "Quercus ilex ssp. ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alzina-c-roger-de-lluria-amb-av-diagonal_99400455046.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4479763430,
+  "lat": 41.3871150,
+  "lon": 2.1630090,
+  "tags": {
+    "name": "arbre singular: Teix",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de la Universitat Central de Barcelona",
+    "species": "Taxus baccata",
+    "species:ca": "Teix",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-teix-jardins-de-la-universitat-central-de-barcelona_99400454945.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492823213,
+  "lat": 41.3863703,
+  "lon": 2.1640999,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Gran Via de les Corts Catalanes, 585",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-gran-via-de-les-corts-catalanes-585_99400454967.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492826303,
+  "lat": 41.3929975,
+  "lon": 2.1839160,
+  "tags": {
+    "name": "arbre singular: Pollancre del Canadà",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de l'Estació del Nord",
+    "species": "Populus x canadensis Moensch",
+    "species:ca": "Pollancre del Canadà",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pollancre-del-canada-parc-de-l-estacio-del-nord_99400454962.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492831805,
+  "lat": 41.3865623,
+  "lon": 2.1625925,
+  "tags": {
+    "name": "arbre singular: Ginkgo",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de la Universitat Central de Barcelona",
+    "species": "Ginkgo biloba",
+    "species:ca": "Ginkgo",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-ginkgo-jardins-de-la-universitat-central-de-barcelona_99400455073.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492834317,
+  "lat": 41.3923939,
+  "lon": 2.1745216,
+  "tags": {
+    "name": "arbre singular: Lledoner",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Casp, 49",
+    "species": "Celtis australis",
+    "species:ca": "Lledoner",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-lledoner-c-casp-49_99400455065.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492839818,
+  "lat": 41.3966415,
+  "lon": 2.1632518,
+  "tags": {
+    "name": "arbre singular: Ficus de cautxú",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Provença, 283 (escola de la Mercè)",
+    "species": "Ficus elastica",
+    "species:ca": "Ficus de cautxú",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-ficus-de-cautxu-c-provenca-283-escola-de-la-merce_99400455013.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492845949,
+  "lat": 41.3925498,
+  "lon": 2.1443776,
+  "tags": {
+    "name": "arbre singular: Bellaombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Francesc Macià",
+    "species": "Phytolacca dioica",
+    "species:ca": "Bellaombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-bellaombra-pl-francesc-macia_99400455037.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492852407,
+  "lat": 41.3612981,
+  "lon": 2.1366850,
+  "tags": {
+    "name": "arbre singular: Grevíl·lea comuna, Roure australià",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins dels Drets Humans",
+    "species": "Grevillea robusta",
+    "species:ca": "Grevíl·lea comuna, Roure austr",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-grevil-lea-comuna-roure-austr-jardins-dels-drets-humans_99400454955.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492855030,
+  "lat": 41.3698011,
+  "lon": 2.1594382,
+  "tags": {
+    "name": "arbre singular: Lagunària",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Teatre Grec",
+    "species": "Lagunaria patersonia",
+    "species:ca": "Lagunària",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-lagunaria-jardins-del-teatre-grec_99400455071.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492857600,
+  "lat": 41.3693905,
+  "lon": 2.1586148,
+  "tags": {
+    "name": "arbre singular: Eritrina, Arbre de coral",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Teatre Grec",
+    "species": "Erythrina lysistemon",
+    "species:ca": "Eritrina, Arbre de coral",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eritrina-arbre-de-coral-jardins-del-teatre-grec_99400455020.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4492871710,
+  "lat": 41.3707311,
+  "lon": 2.1554149,
+  "tags": {
+    "name": "arbre singular: Maclura",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Marià Montessori (c. Lleida/Sta.Madrona)",
+    "species": "Maclura pomifera",
+    "species:ca": "Maclura",
+    "trees": "apple_trees",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-maclura-c-maria-montessori-c-lleidastamadrona_99400455061.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506635132,
+  "lat": 41.3891488,
+  "lon": 2.1603995,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. del Doctor Letamendi",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-pl-del-doctor-letamendi_99400454987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506636933,
+  "lat": 41.3894619,
+  "lon": 2.1733173,
+  "tags": {
+    "name": "arbre singular: Palmera del Senegal",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. del Bisbe Urquinaona",
+    "species": "Phoenix reclinata",
+    "species:ca": "Palmera del Senegal",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-palmera-del-senegal-pl-del-bisbe-urquinaona_99400455006.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506657029,
+  "lat": 41.3675272,
+  "lon": 2.1564412,
+  "tags": {
+    "name": "arbre singular: Ginjoler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Joan Maragall",
+    "species": "Ziziphus jujuba",
+    "species:ca": "Ginjoler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-ginjoler-jardins-de-joan-maragall_99400455075.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506661865,
+  "lat": 41.3717362,
+  "lon": 2.1538770,
+  "tags": {
+    "name": "arbre singular: castanyer bord",
+    "natural": "tree"
+  }
+},
+{
+  "type": "node",
+  "id": 4506691425,
+  "lat": 41.3703866,
+  "lon": 2.1592693,
+  "tags": {
+    "name": "arbre singular: Araucària d'Austràlia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Teatre Grec",
+    "species": "Araucaria bidwillii",
+    "species:ca": "Araucària d'Austràlia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-araucaria-d-australia-jardins-del-teatre-grec_99400455033.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506702907,
+  "lat": 41.3694194,
+  "lon": 2.1459146,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Califòrnia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. Marqués de Comillas / c. Dàlia",
+    "species": "Washingtonia filifera",
+    "species:ca": "Washingtònia de Califòrnia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-california-av-marques-de-comillas-c-dalia_99400454979.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506707073,
+  "lat": 41.3677517,
+  "lon": 2.1642153,
+  "tags": {
+    "name": "arbre singular: Ginkgo",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Mossèn Cinto Verdaguer",
+    "species": "Ginkgo biloba",
+    "species:ca": "Ginkgo",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-ginkgo-jardins-de-mossen-cinto-verdaguer_99400455074.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506714524,
+  "lat": 41.3720533,
+  "lon": 2.1553855,
+  "tags": {
+    "name": "arbre singular: Pebrer bord negre",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Joaquim Blume / c. Lleida",
+    "species": "Schinus polygamus",
+    "species:ca": "Pebrer bord negre",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pebrer-bord-negre-c-joaquim-blume-c-lleida_99400454952.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506719952,
+  "lat": 41.3671519,
+  "lon": 2.1518477,
+  "tags": {
+    "name": "arbre singular: Freixe de Pennsilvània",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Antic Jardí Botànic (av. dels Montanyans s/n)",
+    "species": "Fraxinus pennsylvanica",
+    "species:ca": "Freixe de Pennsilvània",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-freixe-de-pennsilvania-antic-jardi-botanic-av-dels-montanyans-sn_99400455008.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506724497,
+  "lat": 41.3707912,
+  "lon": 2.1720286,
+  "tags": {
+    "name": "arbre singular: Bellaombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Miramar",
+    "species": "Phytolacca dioica",
+    "species:ca": "Bellaombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-bellaombra-jardins-de-miramar_99400455036.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506730853,
+  "lat": 41.3671619,
+  "lon": 2.1533792,
+  "tags": {
+    "name": "arbre singular: Camforer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Antic Jardí Botànic (av. dels Montanyans s/n)",
+    "species": "Cinnamomum camphora",
+    "species:ca": "Camforer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-camforer-antic-jardi-botanic-av-dels-montanyans-sn_99400455032.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506735028,
+  "lat": 41.3873786,
+  "lon": 2.1222567,
+  "tags": {
+    "name": "arbre singular: Palmera blava",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Pius XII",
+    "species": "Brahea armata",
+    "species:ca": "Palmera blava",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-palmera-blava-pl-pius-xii_99400455034.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506740017,
+  "lat": 41.3846197,
+  "lon": 2.1104121,
+  "tags": {
+    "name": "arbre singular: Roure",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. Diagonal (González Tablas / Manuel Ballbé)",
+    "species": "Quercus robur",
+    "species:ca": "Roure",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-av-diagonal-gonzalez-tablas-manuel-ballbe_99400454960.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506742261,
+  "lat": 41.3891153,
+  "lon": 2.1163129,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de la torre Girona (c. Jordi Girona, 31)",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-jardins-de-la-torre-girona-c-jordi-girona-31_99400454995.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506743003,
+  "lat": 41.3889060,
+  "lon": 2.1159964,
+  "tags": {
+    "name": "arbre singular: Arbre ampolla",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Torre Girona (c. Jordi Girona, 31)",
+    "species": "Brachychiton populneus",
+    "species:ca": "Arbre ampolla",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-arbre-ampolla-jardins-de-torre-girona-c-jordi-girona-31_99400455035.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506752018,
+  "lat": 41.3881412,
+  "lon": 2.1158908,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Palau de Pedralbes",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-jardins-del-palau-de-pedralbes_99400454972.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506753110,
+  "lat": 41.3887569,
+  "lon": 2.1151854,
+  "tags": {
+    "name": "arbre singular: Pi blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Torre Girona (c. Jordi Girona, 31)",
+    "species": "Pinus halepensis",
+    "species:ca": "Pi blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-blanc-jardins-de-torre-girona-c-jordi-girona-31_99400455002.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506756241,
+  "lat": 41.3928539,
+  "lon": 2.1435309,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Califòrnia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. Diagonal / pl. Francesc Macià",
+    "species": "Washingtonia filifera",
+    "species:ca": "Washingtònia de Califòrnia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-california-av-diagonal-pl-francesc-macia_99400454982.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506759735,
+  "lat": 41.3873000,
+  "lon": 2.1208904,
+  "tags": {
+    "name": "arbre singular: Figuera",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. Diagonal, 684 (Facultat de Dret)",
+    "species": "Ficus carica",
+    "species:ca": "Figuera",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-figuera-av-diagonal-684-facultat-de-dret_99400455011.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506764773,
+  "lat": 41.3898181,
+  "lon": 2.1315334,
+  "tags": {
+    "name": "arbre singular: Pi de l'Himàlaia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. Diagonal / Numància",
+    "species": "Pinus roxburghii",
+    "species:ca": "Pi de l'Himàlaia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-de-l-himalaia-av-diagonal-numancia_99400454970.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506767182,
+  "lat": 41.3861449,
+  "lon": 2.1339903,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Travessera de les Corts, 247",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-travessera-de-les-corts-247_99400454994.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4506776546,
+  "lat": 41.3835981,
+  "lon": 2.1308039,
+  "tags": {
+    "name": "arbre singular: Alvocater",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Can Bruixa, 4 (pl. Can Bruixa)",
+    "species": "Persea americana",
+    "species:ca": "Alvocater",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alvocater-c-can-bruixa-4-pl-can-bruixa_99400455082.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4532330334,
+  "lat": 41.3870076,
+  "lon": 2.1183141,
+  "tags": {
+    "name": "arbre singular: Tuia articulada, Savina de mor",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Palau de Pedralbes",
+    "species": "Tetraclinis articulata",
+    "species:ca": "Tuia articulada, Savina de mor",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-tuia-articulada-savina-de-mor-jardins-del-palau-de-pedralbes_99400454990.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4532345180,
+  "lat": 41.4034793,
+  "lon": 2.1162956,
+  "tags": {
+    "name": "arbre singular: Pi blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de Joan Reventós",
+    "species": "Pinus halepensis",
+    "species:ca": "Pi blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-blanc-parc-de-joan-reventos_99400455003.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4532361494,
+  "lat": 41.4089554,
+  "lon": 2.1368708,
+  "tags": {
+    "name": "arbre singular: Tipuana",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Passatge de Maluquer",
+    "species": "Tipuana tipu",
+    "species:ca": "Tipuana",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-tipuana-passatge-de-maluquer_99400454992.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4532384965,
+  "lat": 41.4045959,
+  "lon": 2.1372812,
+  "tags": {
+    "name": "arbre singular: Ginjoler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Arimon, 7",
+    "species": "Ziziphus jujuba",
+    "species:ca": "Ginjoler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-ginjoler-arimon-7_99400455076.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4532418708,
+  "lat": 41.4080797,
+  "lon": 2.1341301,
+  "tags": {
+    "name": "arbre singular: Cedre de l'Himàlaia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pg. de Sant Gervasi, 5 (Torre Castanyer)",
+    "species": "Cedrus deodara",
+    "species:ca": "Cedre de l'Himàlaia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-cedre-de-l-himalaia-pg-de-sant-gervasi-5-torre-castanyer_99400455026.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555832895,
+  "lat": 41.3920160,
+  "lon": 2.1272462,
+  "tags": {
+    "name": "arbre singular: Lledoner",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Benet i Mateu, 24",
+    "species": "Celtis australis",
+    "species:ca": "Lledoner",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-lledoner-c-benet-i-mateu-24_99400455066.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555846897,
+  "lat": 41.4140929,
+  "lon": 2.1045461,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Terrassa de l'establiment (Vallvidrera)",
+    "species": "Quercus ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-quercus-ilex-terrassa-de-l-establiment-vallvidrera_99400454961.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555859180,
+  "lat": 41.3985601,
+  "lon": 2.1248668,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. C/Cardenal Sentmenat amb C/Jaume Piquet",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-ccardenal-sentmenat-amb-cjaume-piquet_99400454998.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555870189,
+  "lat": 41.4024879,
+  "lon": 2.1411862,
+  "tags": {
+    "name": "arbre singular: Alzina surera",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de Monterols",
+    "species": "Quercus suber L.",
+    "species:ca": "Alzina surera",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-surera-parc-de-monterols_99400454949.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555874361,
+  "lat": 41.4066326,
+  "lon": 2.1311748,
+  "tags": {
+    "name": "arbre singular: Magnòlia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pg. de la Bonanova, 8 (Col·legi La Selle Bonanova)",
+    "species": "Magnolia grandiflora",
+    "species:ca": "Magnòlia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-magnolia-pg-de-la-bonanova-8-col-legi-la-selle-bonanova_99400455058.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555881488,
+  "lat": 41.3978064,
+  "lon": 2.1113720,
+  "tags": {
+    "name": "arbre singular: Eucaliptus comú",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Castell de l'Oreneta",
+    "species": "Eucalyptus globulus Labill",
+    "species:ca": "Eucaliptus comú",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eucaliptus-comu-parc-del-castell-de-l-oreneta_99400455015.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555883676,
+  "lat": 41.3984704,
+  "lon": 2.1090761,
+  "tags": {
+    "name": "arbre singular: Cirerer de Santa Llúcia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Castell de l'Oreneta",
+    "species": "Prunus mahaleb",
+    "species:ca": "Cirerer de Santa Llúcia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-cirerer-de-santa-llucia-parc-del-castell-de-l-oreneta_99400455025.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4555893200,
+  "lat": 41.4014334,
+  "lon": 2.1237453,
+  "tags": {
+    "name": "arbre singular: Tell argentat",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pg. Bonanova, 92",
+    "species": "Tilia tomentosa",
+    "species:ca": "Tell argentat",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-tell-argentat-pg-bonanova-92_99400454943.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618690960,
+  "lat": 41.4071839,
+  "lon": 2.1556486,
+  "tags": {
+    "name": "arbre singular: Xicranda",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. del Nord",
+    "species": "Jacaranda mimosifolia",
+    "species:ca": "Xicranda",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-xicranda-pl-del-nord_99400454976.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618692827,
+  "lat": 41.4136463,
+  "lon": 2.1466483,
+  "tags": {
+    "name": "arbre singular: Pi blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Sant Camil, 32",
+    "species": "Pinus halepensis",
+    "species:ca": "Pi blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-blanc-c-sant-camil-32_99400455000.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618711799,
+  "lat": 41.4073894,
+  "lon": 2.1507417,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Lesseps",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-pl-lesseps_99400454986.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618720388,
+  "lat": 41.3993611,
+  "lon": 2.1528378,
+  "tags": {
+    "name": "arbre singular: Freixe de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Gal·la Placídia",
+    "species": "Fraxinus berlandieriana",
+    "species:ca": "Freixe de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-freixe-de-mexic-pl-gal-la-placidia_99400455009.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618727147,
+  "lat": 41.4147890,
+  "lon": 2.1396514,
+  "tags": {
+    "name": "arbre singular: Roure martinenc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Gomis, 102-104",
+    "species": "Quercus pubescens",
+    "species:ca": "Roure martinenc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-martinenc-c-gomis-102-104_99400454958.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618730503,
+  "lat": 41.4056619,
+  "lon": 2.1623828,
+  "tags": {
+    "name": "arbre singular: Arbre de l'amor, arbre de Jude",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Joanic",
+    "species": "Cercis siliquastrum",
+    "species:ca": "Arbre de l'amor, arbre de Jude",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-arbre-de-l-amor-arbre-de-jude-pl-joanic_99400455041.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618744084,
+  "lat": 41.4141479,
+  "lon": 2.1530253,
+  "tags": {
+    "name": "arbre singular: Garrofer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc Güell",
+    "species": "Ceratónia siliqua",
+    "species:ca": "Garrofer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-garrofer-parc-guell_99400455078.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618756965,
+  "lat": 41.4396976,
+  "lon": 2.1471213,
+  "tags": {
+    "name": "arbre singular: Cedre de l'Himalaia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Laberint",
+    "species": "Cedrus deodara",
+    "species:ca": "Cedre de l'Himalaia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-cedre-de-l-himalaia-parc-del-laberint_99400455028.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618762649,
+  "lat": 41.4134138,
+  "lon": 2.1652644,
+  "tags": {
+    "name": "arbre singular: Figuera",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de les Aigües del Guinardó",
+    "species": "Ficus carica",
+    "species:ca": "Figuera",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-figuera-parc-de-les-aigues-del-guinardo_99400455012.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618778725,
+  "lat": 41.4276129,
+  "lon": 2.1359796,
+  "tags": {
+    "denotation": "urban",
+    "genus": "Pinus",
+    "leaf_cycle": "evergreen",
+    "leaf_type": "needleleaved",
+    "name": "arbre singular: Pi blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Saldes 3 (parròquia Sant Genís dels Agudells)",
+    "species": "Pinus halepensis",
+    "species:ca": "Pi blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-blanc-c-saldes-3-parroquia-sant-genis-dels-agudells_99400455004.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4618795296,
+  "lat": 41.4284365,
+  "lon": 2.1492738,
+  "tags": {
+    "name": "arbre singular: Teix",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. C. Vidal i Barraquer, 1 (Seminari Martí Codolar)",
+    "species": "Taxus baccata",
+    "species:ca": "Teix",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-teix-av-c-vidal-i-barraquer-1-seminari-marti-codolar_99400454944.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657010922,
+  "lat": 41.4401841,
+  "lon": 2.1463492,
+  "tags": {
+    "name": "arbre singular: Arboç",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Laberint d'Horta",
+    "species": "Arbutus unedo",
+    "species:ca": "Arboç",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-arboc-parc-del-laberint-d-horta_99400455043.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657023711,
+  "lat": 41.4396254,
+  "lon": 2.1473296,
+  "tags": {
+    "name": "arbre singular: Til·ler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Laberint",
+    "species": "Tilia platyphyllos",
+    "species:ca": "Til·ler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-til-ler-parc-del-laberint_99400454941.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657026098,
+  "lat": 41.4400799,
+  "lon": 2.1465705,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Laberint d'Horta",
+    "species": "Quercus ilex ssp. ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alzina-parc-del-laberint-d-horta_99400455047.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657026241,
+  "lat": 41.4229403,
+  "lon": 2.1391676,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Nazaret, 16",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-c-nazaret-16_99400454996.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657027104,
+  "lat": 41.4399411,
+  "lon": 2.1460931,
+  "tags": {
+    "name": "arbre singular: Sequoia de California",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Laberint d'Horta",
+    "species": "Sequoia sempervirens",
+    "species:ca": "Sequoia de California",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-sequoia-de-california-parc-del-laberint-d-horta_99400454951.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657040434,
+  "lat": 41.4190239,
+  "lon": 2.1643387,
+  "tags": {
+    "name": "arbre singular: Arbre de l'amor, arbre de Jude",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Panorama, s/n",
+    "species": "Cercis siliquastrum",
+    "species:ca": "Arbre de l'amor, arbre de Jude",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-arbre-de-l-amor-arbre-de-jude-c-panorama-sn_99400455042.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4657043843,
+  "lat": 41.4132134,
+  "lon": 2.1656951,
+  "tags": {
+    "name": "arbre singular: Fotínia del Japó",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de les Aigües del Guinardó",
+    "species": "Photinia serrulata",
+    "species:ca": "Fotínia del Japó",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-fotinia-del-japo-parc-de-les-aigues-del-guinardo_99400455010.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4785126220,
+  "lat": 41.3834294,
+  "lon": 2.1751080,
+  "tags": {
+    "name": "arbre singular: Tipuana",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. de Sant Felip Neri",
+    "species": "Tipuana tipu",
+    "species:ca": "Tipuana",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-tipuana-pl-de-sant-felip-neri_99400454937.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5277819866,
+  "lat": 41.4143077,
+  "lon": 2.1787180,
+  "tags": {
+    "genus": "Ceratonia",
+    "leaf_cycle": "evergreen",
+    "name": "arbre singular: Garrofer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Can Miralletes",
+    "species": "Ceratónia siliqua",
+    "species:ca": "Garrofer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-garrofer-jardins-de-can-miralletes_99400637944.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5518754182,
+  "lat": 41.3835496,
+  "lon": 2.1686263,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Califòrnia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Elisabets, 24 (Casa de la Misericòrdia)",
+    "species": "Washingtonia filifera",
+    "species:ca": "Washingtònia de Califòrnia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-california-c-elisabets-24-casa-de-la-misericordia_99400454978.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6052327917,
+  "lat": 41.3840623,
+  "lon": 2.1757013,
+  "tags": {
+    "name": "arbre singular: Datiler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. de Santa Llúcia, 2 (Casa de l'Ardiaca)",
+    "species": "Phoenix dactylifera",
+    "species:ca": "Datiler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-datiler-c-de-santa-llucia-2-casa-de-l-ardiaca_99400455014.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6061015513,
+  "lat": 41.4288686,
+  "lon": 2.1885538,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Nadal",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-pl-nadal_99400454969.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6195204083,
+  "lat": 41.4246899,
+  "lon": 2.1862360,
+  "tags": {
+    "name": "arbre singular: Datiler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Olesa / av. Meridiana",
+    "species": "Phoenix dactylifera",
+    "species:ca": "Datiler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-datiler-c-olesa-av-meridiana_99400455022.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6201078070,
+  "lat": 41.4299685,
+  "lon": 2.1748077,
+  "tags": {
+    "name": "arbre singular: Tipuana",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Virrei Amat",
+    "species": "Tipuana tipu",
+    "species:ca": "Tipuana",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-tipuana-pl-virrei-amat_99400454993.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924043486,
+  "lat": 41.4388600,
+  "lon": 2.2070790,
+  "tags": {
+    "name": "arbre singular: Acàcia del Japó",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Biosca (Tàrrega / Granadella)",
+    "species": "Styphnolobium japonicum",
+    "species:ca": "Acàcia del Japó",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-acacia-del-japo-c-biosca-tarrega-granadella_99400454948.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924075986,
+  "lat": 41.4267230,
+  "lon": 2.0930200,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Baladre, 8",
+    "species": "Quercus ilex ssp. ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alzina-c-baladre-8_99400455044.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924075987,
+  "lat": 41.3829700,
+  "lon": 2.1679070,
+  "tags": {
+    "name": "arbre singular: Araucària de Norfolk",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Elisabets 24",
+    "species": "Araucaria heterophylla",
+    "species:ca": "Araucària de Norfolk",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-araucaria-de-norfolk-c-elisabets-24_99400637926.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924082887,
+  "lat": 41.4429300,
+  "lon": 2.1805510,
+  "tags": {
+    "name": "arbre singular: Acàcia del Japó",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Pou Mas Duran (pl. Santa Engràcia)",
+    "species": "Styphnolobium japonicum",
+    "species:ca": "Acàcia del Japó",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-acacia-del-japo-c-pou-mas-duran-pl-santa-engracia_99400455083.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924083485,
+  "lat": 41.4361720,
+  "lon": 2.1929760,
+  "tags": {
+    "name": "arbre singular: Acàcia de tres punxes",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. de l'Estació",
+    "species": "Gleditsia triacanthos",
+    "species:ca": "Acàcia de tres punxes",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-acacia-de-tres-punxes-pl-de-l-estacio_99400455084.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924087385,
+  "lat": 41.4083980,
+  "lon": 2.1313580,
+  "tags": {
+    "name": "arbre singular: Aladern de fulla ampla",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Lluçanès",
+    "species": "Phillyrea latifolia",
+    "species:ca": "Aladern de fulla ampla",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-aladern-de-fulla-ampla-c-llucanes_99400637947.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924087388,
+  "lat": 41.3801420,
+  "lon": 2.1257710,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Bacardí",
+    "species": "Quercus ilex ssp. ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alzina-jardins-de-bacardi_99400455080.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924087390,
+  "lat": 41.4055670,
+  "lon": 2.1586280,
+  "tags": {
+    "name": "arbre singular: Alzina",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Encarnació 13",
+    "species": "Quercus ilex ssp. ilex",
+    "species:ca": "Alzina",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alzina-c-encarnacio-13_99400638027.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924087485,
+  "lat": 41.4149500,
+  "lon": 2.2155690,
+  "tags": {
+    "name": "arbre singular: Àlber",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Ferrer Bassa / c. Xavier Nogués",
+    "species": "Populus alba",
+    "species:ca": "Àlber",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-alber-c-ferrer-bassa-c-xavier-nogues_99400454973.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924148786,
+  "lat": 41.3669838,
+  "lon": 2.1519653,
+  "tags": {
+    "name": "arbre singular: Carp",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Antic Jardí Botànic (av. dels Montanyans s/n)",
+    "species": "Carpinus betulus",
+    "species:ca": "Carp",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-carp-antic-jardi-botanic-av-dels-montanyans-sn_99400455031.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924151985,
+  "lat": 41.3715970,
+  "lon": 2.1536940,
+  "tags": {
+    "name": "arbre singular: Castanyer d'India, Castanyer b",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Guàrdia Urbana / pl. de Carles Buïgas",
+    "species": "Aesculus hippocastanum",
+    "species:ca": "Castanyer d'India, Castanyer b",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-castanyer-d-india-castanyer-b-c-guardia-urbana-pl-de-carles-buigas_99400455030.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924159585,
+  "lat": 41.3934560,
+  "lon": 2.1303450,
+  "tags": {
+    "name": "arbre singular: Còcul",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Buïgas, 23 (clínica Corachan)",
+    "species": "Cocculus laurifolius",
+    "species:ca": "Còcul",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-cocul-c-buigas-23-clinica-corachan_99400455023.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924159885,
+  "lat": 41.3961030,
+  "lon": 2.1595140,
+  "tags": {
+    "name": "arbre singular: Còcul",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Palau Robert",
+    "species": "Cocculus laurifolius",
+    "species:ca": "Còcul",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-cocul-jardins-del-palau-robert_99400638025.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924159985,
+  "lat": 41.4291270,
+  "lon": 2.1676190,
+  "tags": {
+    "name": "arbre singular: Datiler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. ptge. de les Palmeres",
+    "species": "Phoenix dactylifera",
+    "species:ca": "Datiler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-datiler-ptge-de-les-palmeres_99400455021.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924165185,
+  "lat": 41.4053230,
+  "lon": 2.1308730,
+  "tags": {
+    "name": "arbre singular: Eucaliptus blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. passeig de la Bonanova",
+    "species": "Eucalyptus globulus",
+    "species:ca": "Eucaliptus blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eucaliptus-blanc-passeig-de-la-bonanova_99400637914.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924165385,
+  "lat": 41.3823932,
+  "lon": 2.1677048,
+  "tags": {
+    "name": "arbre singular: Eucaliptus de fulla estreta",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. de les Caramelles",
+    "species": "Eucalyptus camaldulensis",
+    "species:ca": "Eucaliptus de fulla estreta",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eucaliptus-de-fulla-estreta-pl-de-les-caramelles_99400455018.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924167685,
+  "lat": 41.4177400,
+  "lon": 2.2134140,
+  "tags": {
+    "name": "arbre singular: Eucaliptus de fulla estreta",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Germans Serra",
+    "species": "Eucalyptus camaldulensis",
+    "species:ca": "Eucaliptus de fulla estreta",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-eucaliptus-de-fulla-estreta-c-germans-serra_99400455017.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924249886,
+  "lat": 41.3994370,
+  "lon": 2.1333650,
+  "tags": {
+    "name": "arbre singular: Pi canari",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Ganduxer, 85 (Escola de les Teresianes)",
+    "species": "Pinus canariensis",
+    "species:ca": "Pi canari",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-canari-c-ganduxer-85-escola-de-les-teresianes_99400454999.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924249887,
+  "lat": 41.4106600,
+  "lon": 2.1351440,
+  "tags": {
+    "name": "arbre singular: Roure pènol",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de la Tamarita",
+    "species": "Quercus robur",
+    "species:ca": "Roure pènol",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-penol-parc-de-la-tamarita_99400454957.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253086,
+  "lat": 41.4376260,
+  "lon": 2.2059740,
+  "tags": {
+    "name": "arbre singular: Freixe de fulla estreta",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Tàrrega 50 (c. Bellmunt-Ardèvol)",
+    "species": "Fraxinus angustifolia",
+    "species:ca": "Freixe de fulla estreta",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-freixe-de-fulla-estreta-c-tarrega-50-c-bellmunt-ardevol_99400455007.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253088,
+  "lat": 41.4265750,
+  "lon": 2.1738640,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pg. Maragall, 240 (jardins de la torre Llobeta)",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-pg-maragall-240-jardins-de-la-torre-llobeta_99400454984.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253586,
+  "lat": 41.4187200,
+  "lon": 2.1482400,
+  "tags": {
+    "name": "arbre singular: Llentiscle, mata",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de la Creueta del Coll",
+    "species": "Pistacia lentiscus",
+    "species:ca": "Llentiscle, mata",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-llentiscle-mata-parc-de-la-creueta-del-coll_99400638023.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253587,
+  "lat": 41.3673100,
+  "lon": 2.1527300,
+  "tags": {
+    "name": "arbre singular: Noguera amb ales",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardí Botànic Històric. Sector de l'estany",
+    "species": "Pterocarya x rehderianaés",
+    "species:ca": "Noguera amb ales",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-noguera-amb-ales-jardi-botanic-historic-sector-de-l-estany_99400637930.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253588,
+  "lat": 41.3680270,
+  "lon": 2.1710080,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. ctra. de Miramar",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-ctra-de-miramar_99400454981.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253589,
+  "lat": 41.4293860,
+  "lon": 2.1871070,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Camil Fabra",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-c-camil-fabra_99400454985.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924253590,
+  "lat": 41.3580600,
+  "lon": 2.1419210,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Can Farrero",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-platan-jardins-de-can-farrero_99400454988.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924257286,
+  "lat": 41.3958050,
+  "lon": 2.1189410,
+  "tags": {
+    "name": "arbre singular: Pi blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Recinte interior de Can Ponsich (seu de la Unitat Territorial de l",
+    "species": "Pinus halepensis",
+    "species:ca": "Pi blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-blanc-recinte-interior-de-can-ponsich-seu-de-la-unitat-territorial-de-l_99400455005.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924257287,
+  "lat": 41.4193950,
+  "lon": 2.1342270,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. August Font, 2",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-c-august-font-2_99400637927.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924257289,
+  "lat": 41.3584100,
+  "lon": 2.1418670,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins de Can Farrero",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-jardins-de-can-farrero_99400454965.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265085,
+  "lat": 41.4368700,
+  "lon": 2.1708840,
+  "tags": {
+    "name": "arbre singular: Livistona d'Austràlia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Consell Municipal del Districte de Nou Barris",
+    "species": "Livistona australis",
+    "species:ca": "Livistona d'Austràlia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-livistona-d-australia-consell-municipal-del-districte-de-nou-barris_99400455069.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265086,
+  "lat": 41.4064060,
+  "lon": 2.1170520,
+  "tags": {
+    "name": "arbre singular: Llentiscle",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. de Sant Pere Claver, 15",
+    "species": "Pistacia lentiscus",
+    "species:ca": "Llentiscle",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-llentiscle-c-de-sant-pere-claver-15_99400455062.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265087,
+  "lat": 41.3887400,
+  "lon": 2.1875490,
+  "tags": {
+    "name": "arbre singular: Maclura",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de la Ciutadella",
+    "species": "Maclura pomifera",
+    "species:ca": "Maclura",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-maclura-parc-de-la-ciutadella_99400455060.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265088,
+  "lat": 41.4379040,
+  "lon": 2.2029110,
+  "tags": {
+    "name": "arbre singular: Morera blanca",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Adrall / c. Granadella",
+    "species": "Morus alba",
+    "species:ca": "Morera blanca",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-morera-blanca-c-adrall-c-granadella_99400455056.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265089,
+  "lat": 41.4085240,
+  "lon": 2.2117480,
+  "tags": {
+    "name": "arbre singular: Om de Sibèria",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Llull, 353. Solar entre Av. Diagonal i c. Llull",
+    "species": "Ulmus pumila L",
+    "species:ca": "Om de Sibèria",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-om-de-siberia-c-llull-353-solar-entre-av-diagonal-i-c-llull_99400637928.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265090,
+  "lat": 41.4111800,
+  "lon": 2.1743720,
+  "tags": {
+    "name": "arbre singular: Palmera de Canàries",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Carrer de Cartagena amb Sant Antoni Maria Claret",
+    "species": "Phoenix canariensis",
+    "species:ca": "Palmera de Canàries",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-palmera-de-canaries-carrer-de-cartagena-amb-sant-antoni-maria-claret-davan_99400455053.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265385,
+  "lat": 41.3962440,
+  "lon": 2.1468710,
+  "tags": {
+    "name": "arbre singular: Lledoner",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Muntaner",
+    "species": "Celtis australis",
+    "species:ca": "Lledoner",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-lledoner-c-muntaner_99400638013.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265585,
+  "lat": 41.4482270,
+  "lon": 2.1906490,
+  "tags": {
+    "name": "arbre singular: Llentiscle",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Accessos a l'Hort de l'Avi des del carrer Farigola",
+    "species": "Pistacia lentiscus",
+    "species:ca": "Llentiscle",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-llentiscle-accessos-a-l-hort-de-l-avi-des-del-carrer-farigola_99400455063.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265586,
+  "lat": 41.4086150,
+  "lon": 2.1312560,
+  "tags": {
+    "name": "arbre singular: Morera blanca",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Alcoi 10",
+    "species": "Morus alba",
+    "species:ca": "Morera blanca",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-morera-blanca-c-alcoi-10_99400637946.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265587,
+  "lat": 41.4077640,
+  "lon": 2.1539350,
+  "tags": {
+    "name": "arbre singular: Palmera de Canàries",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins Mestre Balcells",
+    "species": "Phoenix canariensis",
+    "species:ca": "Palmera de Canàries",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-palmera-de-canaries-jardins-mestre-balcells_99400455049.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265588,
+  "lat": 41.4080160,
+  "lon": 2.1484960,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Califòrnia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. av. República Argentina 16-18-26",
+    "species": "Washingtonia filifera",
+    "species:ca": "Washingtònia de Califòrnia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-california-av-republica-argentina-16-18-26-antiga-masia-c_99400454980.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924265589,
+  "lat": 41.4344000,
+  "lon": 2.1790020,
+  "tags": {
+    "name": "arbre singular: Washingtònia de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Piferrer, 94 (Can Verdaguer)",
+    "species": "Washingtonia robusta",
+    "species:ca": "Washingtònia de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-washingtonia-de-mexic-c-piferrer-94-can-verdaguer_99400454983.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924266185,
+  "lat": 41.3838230,
+  "lon": 2.1760370,
+  "tags": {
+    "name": "arbre singular: Magnòlia",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. jardí del claustre de la Catedral de Barcelona",
+    "species": "Magnolia grandiflora",
+    "species:ca": "Magnòlia",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-magnolia-jardi-del-claustre-de-la-catedral-de-barcelona_99400455059.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924269985,
+  "lat": 41.4335600,
+  "lon": 2.1645270,
+  "tags": {
+    "name": "arbre singular: Pi blanc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc del Turó de la Peira",
+    "species": "Pinus halepensis",
+    "species:ca": "Pi blanc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-blanc-parc-del-turo-de-la-peira_99400455001.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924269986,
+  "lat": 41.4361100,
+  "lon": 2.1873590,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Malats / c. Fraga (Casal d'Avis)",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-c-malats-c-fraga-casal-d-avis_99400454971.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924269987,
+  "lat": 41.3688130,
+  "lon": 2.1583350,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardins del Claustre",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-jardins-del-claustre_99400638000.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924274585,
+  "lat": 41.3936770,
+  "lon": 2.1184360,
+  "tags": {
+    "name": "arbre singular: Pi pinyer",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Bosch i Gimpera /c. Cardenal Vives i Tutó",
+    "species": "Pinus pinea",
+    "species:ca": "Pi pinyer",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-pi-pinyer-c-bosch-i-gimpera-c-cardenal-vives-i-tuto_99400454997.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924274587,
+  "lat": 41.4287450,
+  "lon": 2.0896490,
+  "tags": {
+    "name": "arbre singular: Roure cerrioide",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Vora la pista esportiva del berenador de les Planes",
+    "species": "Quercus cerrioides",
+    "species:ca": "Roure cerrioide",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-cerrioide-vora-la-pista-esportiva-del-berenador-de-les-planes_99400454953.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924275385,
+  "lat": 41.3853400,
+  "lon": 2.1702190,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Les Rambles",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-les-rambles_99400454968.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924275386,
+  "lat": 41.4236500,
+  "lon": 2.1988180,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Cantàbria, 72",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-c-cantabria-72_99400454963.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924275387,
+  "lat": 41.3955000,
+  "lon": 2.1573580,
+  "tags": {
+    "name": "arbre singular: Til·ler",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Rambla de Catalunya",
+    "species": "Tilia platyphyllos",
+    "species:ca": "Til·ler",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-til-ler-rambla-de-catalunya_99400454942.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924275785,
+  "lat": 41.3874400,
+  "lon": 2.1717230,
+  "tags": {
+    "name": "arbre singular: Plàtan d'ombra",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. c. Fontanella",
+    "species": "Platanus x hybrida",
+    "species:ca": "Plàtan d'ombra",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-platan-d-ombra-c-fontanella_99400638002.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924277685,
+  "lat": 41.4451680,
+  "lon": 2.1746780,
+  "tags": {
+    "name": "arbre singular: Radermachera, Arbre serp",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Via Favència",
+    "species": "Radermachera sinica",
+    "species:ca": "Radermachera, Arbre serp",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-radermachera-arbre-serp-via-favencia_99400638006.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924278485,
+  "lat": 41.3882900,
+  "lon": 2.1868000,
+  "tags": {
+    "name": "arbre singular: Roure blanc de Mèxic",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de la Ciutadella",
+    "species": "Quercus polymorpha",
+    "species:ca": "Roure blanc de Mèxic",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-blanc-de-mexic-parc-de-la-ciutadella_99400454956.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924278585,
+  "lat": 41.4156880,
+  "lon": 2.1303530,
+  "tags": {
+    "name": "arbre singular: Roure cerrioide",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de la Font del Racó",
+    "species": "Quercus cerrioides",
+    "species:ca": "Roure cerrioide",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-cerrioide-parc-de-la-font-del-raco_99400454959.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924278785,
+  "lat": 41.3881800,
+  "lon": 2.1865960,
+  "tags": {
+    "name": "arbre singular: Roure martinenc",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Parc de la Ciutadella",
+    "species": "Quercus pubescens",
+    "species:ca": "Roure martinenc",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-roure-martinenc-parc-de-la-ciutadella_99400638024.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924279485,
+  "lat": 41.4293060,
+  "lon": 2.1941280,
+  "tags": {
+    "name": "arbre singular: Sòfora, Acàcia del Japó",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Pl. de Can Portabella",
+    "species": "Styphnolobium japonicum",
+    "species:ca": "Sòfora, Acàcia del Japó",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-sofora-acacia-del-japo-pl-de-can-portabella_99400638008.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924279885,
+  "lat": 41.3842300,
+  "lon": 2.1686210,
+  "tags": {
+    "name": "arbre singular: Taronger amarg",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Jardí de la Casa de la Misericòrdia",
+    "species": "Citrus aurantium subsp. amara",
+    "species:ca": "Taronger amarg",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-taronger-amarg-jardi-de-la-casa-de-la-misericordia_99400637948.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924279985,
+  "lat": 41.4207570,
+  "lon": 2.1969120,
+  "tags": {
+    "name": "arbre singular: Taronger amarg",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. pl. Ignasi Juliol (pati Església Sant Martí de Provençals)",
+    "species": "Citrus aurantium subsp. amara",
+    "species:ca": "Taronger amarg",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-taronger-amarg-pl-ignasi-juliol-pati-esglesia-sant-marti-de-provencals_99400454947.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6924280085,
+  "lat": 41.3842350,
+  "lon": 2.1673140,
+  "tags": {
+    "name": "arbre singular: Teix",
+    "natural": "tree",
+    "note": "Arbres d'interès local de Barcelona. Pati Interior de la Facultat de Geografia i Història de la Universitat",
+    "species": "Taxus baccata",
+    "species:ca": "Teix",
+    "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local/arbre-d-interes-local-teix-pati-interior-de-la-facultat-de-geografia-i-historia-de-la-universitat_99400454946.html"
+  }
+}
+
+  ]
+}

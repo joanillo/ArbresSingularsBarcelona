@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Política de privacitat, ASB</title>
+</head>
+<body>
+<h3><strong>Política de privacitat (aplicacions mòbil Arbres Singulars de Barcelona, ASB)</strong></h3>
+
+Joan Quintana Compte, amb domicili a Carrer Gran de Gràcia, 117, (08012) de Barcelona i amb NIF número 35105018A (en endavant, 'el titular'), és el titular del lloc web sota el domini [www.joanillo.org] (el 'Lloc Web') i és el proveïdor del servei. L'Aplicació mòbil Arbres Singulars de Barcelona (en endavant ASB) té com a finalitat facilitar informació sobre els Arbres Singulars de Barcelona.<br /><br />
+
+1. Acceptació de la Política de Privacitat<br /><br />
+
+1.1. La utilització de ASB li atribueix la condició d’Usuari ('Usuari') i implica l’acceptació de totes les condicions incloses en aquesta Política de Privacitat.<br /><br />
+
+1.2. En cap moment es demanarà a l'usuari registrar-se en la plataforma, per tant la seva Privacitat quedarà garantida.<br /><br />
+
+1.3. El titular es reserva el dret de modificar, actualitzar o adaptar la present Política de Privacitat en qualsevol moment. L’Usuari serà notificat de qualsevol modificació a la Política de Privacitat i, en cas de voler seguint fent ús del Servei, haurà de llegir i acceptar de forma expressa la nova versió de la Política de Privacitat.<br /><br />
+
+2. Seguretat i confidencialitat<br /><br />
+
+2.1. L'aplicació ASB no recull en cap cas dades de l'usuari, i per tant no cal garantir la seguretat i la confidencialitat, i la LOPD no és aplicable.<br /><br />
+
+3. Finalitat del tractament de dades de caràcter personal<br /><br />
+
+3.1. ASB no recull dades de caràcter personal en cap cas. Laplicació és totalment anònima.<br /><br />
+
+4. Ús de sistemes de geolocalització<br /><br />
+
+4.1. ASM geolocalitza la posició de l'usuari per tal de què aquest conegui la seva posició en relació als arbres de què és objecte l'aplicació. Tanmateix, aquesta informació és privada al dispositiu i no es transmet sota cap concepte forma del dispositiu.<br /><br />
+
+
+6. Cessió i/o comunicació de dades<br /><br />
+
+6.1. L'usuari no proporciona cap dada, i per tant no cal preocupar-se per la cessió de dades a serveis externs.<br /><br />
+
+7. Exercici dels drets d’accés, rectificació, cancel·lació i oposició<br /><br />
+
+7.1. El titular informa que els Usuaris de l'aplicació tenen dret a exercitar els drets d'oposició, accés, rectificació i cancel·lació en l'àmbit reconegut per la LOPD. Per a exercitar aquests drets, i per a qualsevol aclariment, els interessats podran adreçar-se per correu a Joan Quintana Compte, amb domicili a Carrer Gran de Gràcia, 117, (08012) de Barcelona, o bé a l’adreça electrònica: joanqc@gmail.com.<br /><br />
+
+8. Ús de cookies<br /><br />
+
+8.1. El titular informa que per utilitzar l'aplicació ASB NO es fan servir cookies. Les cookies són fitxers físics d'informació personal allotjats en el propi terminal de l'usuari. L’usuari ha de configurar el navegador permetent l’ús de cookies, ja que en cas contrari determinades funcions del Servei no estaran disponibles.
+</body>
+</html>

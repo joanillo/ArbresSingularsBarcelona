@@ -1,0 +1,9 @@
+Aplicació React Native
+per col·leccionar els Arbres Singulars de Barcelona
+
+S'ha desenvolupat amb Expo (i queda un APK bastant pesat). En un futur s'haurà de reduir el tamany del APK.
+
+v1.0.
+És la FlatList de tots els arbres, que es poden marcar com a visitats o no.
+Es coneix el posicionament del dispositiu, la posició i la direcció a la que està l'arbre, i la direcció a la que ens movem (heading).
+Amb tota aquesta informació podem saber en quina direcció hem d'anar per dirigir-nos a un arbre concret (brúixola).

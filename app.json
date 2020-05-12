@@ -21,6 +21,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "permissions": [
+        "ACCESS_FINE_LOCATION"
+      ],
+      "package": "org.joanillo.ArbresBarcelona",
+      "versionCode": 1.0
+    },
     "ios": {
       "supportsTablet": true
     }

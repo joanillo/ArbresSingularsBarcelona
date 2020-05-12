@@ -376,7 +376,7 @@ export default class App extends Component {
 
     let cad_perc;
     if (this.state.discoveredPercent > 0) {
-      cad_perc = this.state.discoveredPercent + "%"
+      cad_perc= this.state.discoveredPercent + "%"
     } else {
       cad_perc = "0%"
     }

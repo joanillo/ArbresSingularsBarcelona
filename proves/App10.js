@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-//import React, { PureComponent } from 'react';
-import { SafeAreaView, View, FlatList, StyleSheet, Text, TouchableOpacity, Image, AsyncStorage, Alert } from 'react-native';
+import { SafeAreaView, View, FlatList, StyleSheet, Text, TouchableOpacity, Image, Alert } from 'react-native';
 import Constants from 'expo-constants';
 import * as Permissions from 'expo-permissions';
 import * as Location from 'expo-location';
@@ -30,19 +29,11 @@ function Item(props) {
     image = <Image source={require('./assets/empty_arrow.png')} />
   }
 
-  let styleColor = styles.item1red
-  if (props.color) {
-    styleColor = props.color=='red' ? styles.item1red : styles.item1green
-  } else {
-
-    styleColor = styles.item1red
-  }
-
 
   return (
-    <View style={styleColor}>
+    <View style={styles.item1}>
       <View style={styles.item2}>
-        <Text style={styles.title}>{props.title} {props.distdir? "(" + props.distdir[0] + "m)" : ""}</Text>
+        <Text style={styles.title}>{props.title} {props.distdir? "(" + props.distdir[0] + "m," + props.distdir[1] + ")" : ""}</Text>
       </View>
       <View  style={styles.item3}>
         {image}
@@ -57,9 +48,6 @@ function SearchLocation(props) {
     <View style={styles.item1p}>
       <View style={styles.item2p}>
         <Text style={props.styleText}>{props.cad}</Text>
-      </View>
-      <View  style={styles.item3p}>
-        <Text style={props.styleText}>{props.cad_perc}</Text>
       </View>
     </View>
   );
@@ -77,77 +65,23 @@ export default class App extends Component {
       searching_location: false,
       heading: -1, //el heading és la direcció a la qual avanço, i es calcula com a diferència entre dues posicions consecutives
       contolHeading: 0,
-      arbres: Array(arbresJSONFile.elements.length).fill(null), //canviar a trees per compatibilitat amb l'aplicatiu de thunderforest
-      greenTrees: [],
-      discoveredPercent: 0
+      arbres: Array(arbresJSONFile.elements.length).fill(null)
     };
    }
 
   componentDidMount() {
-    this.setSettings() //set your settings (carregar les settings)
-  }
-
-  async setSettings() {
-
-      try {
-
-        var greenTrees = {};
-        var result = await AsyncStorage.getItem('settings');
-        var settings = JSON.parse(result);
-        Object.assign(greenTrees, settings);
-
-        //per esborrar totes les dades
-        //AsyncStorage.clear();
-
-        this.setState(
-            greenTrees,
-        function() { 
-          //console.log("setState completed")
-          this.loadTreesAndSetInterval()
-        }
-       )
-        //console.log(this.state.greenTrees)
-
-      } catch(e) {
-
-      } finally {
-
-      }
-  }
-
-  loadTreesAndSetInterval() {
     this.setState({
       arbres: arbresJSONFile.elements
     },()=>{
-
-
-      var greenTreesCopy = this.state.greenTrees.slice()
-      //console.log(greenTreesCopy)
-
+      //console.log(this.state.arbres[0].id)
       var arbresCopy = this.state.arbres.slice()
       //hem d'afegir la clau distdir=0 a tots els elements
       //https://stackoverflow.com/questions/39827087/add-key-value-pair-to-all-objects-in-array
-      //arbresCopy.map(o => (o.distdir = [0,0])); //distància, direcció
-      //arbresCopy.map(o => (o.color = "green")); //color
-      //arbresCopy.map(function(o) {o.distdir = [0,0];o.color = "red";});
-
-      arbresCopy.map(function(o) {
-        o.distdir = [0,0]
-        if (greenTreesCopy.indexOf(o.id)>=0) {
-            o.color = "green"
-        } else {
-            o.color = "red"            
-        }
-
-      });
-
-      const percent = 100*(greenTreesCopy.length / this.state.arbres.length) 
-
+      arbresCopy.map(o => (o.distdir = [0,0])); //distància, direcció
       //i ara he de tornar a fer el setState (gravar)
       this.setState({
         arbres: arbresCopy,
-        onload: true,
-        discoveredPercent: percent.toFixed(2)
+        onload: true
       },()=>{
           //comprovació
           //console.log(this.state.arbres[1].distdir[0])
@@ -162,18 +96,9 @@ export default class App extends Component {
 
     }
     );
+
   }
 
-  treeChanged(field, value) {
-      var obj = {};
-      obj[field] = value;
-      AsyncStorage.getItem('settings').then(function(strResult) {
-          var result = JSON.parse(strResult) || {};
-          Object.assign(result, obj);
-          AsyncStorage.setItem('settings', JSON.stringify(result));
-      });
-      this.setState(obj);
-  }
 
   calcularDistancia(item) {
     var latRad1 = this.state.location.coords.latitude * (Math.PI/180);
@@ -319,70 +244,21 @@ export default class App extends Component {
   };
 
 
-  actionLongOnRow(item,index) {
-      //TODO: el index no el necessitem per a res
-      //console.log(index)
-      //console.log(item.id)
-      //console.log('Selected Item :',item);
-      var arbresCopy = this.state.arbres.slice()
-
-      //https://stackoverflow.com/questions/46862976/how-to-filter-array-of-objects-in-react-native
-      //https://stackoverflow.com/questions/37585309/replacing-objects-in-array
-      datafound = arbresCopy.filter((it) => it.id == item.id).map((keys) => (keys));
-      if (datafound[0].color == 'red') {
-        datafound[0].color='green'
-      } else {
-        datafound[0].color='red'    
-      }
-
-      //substituïm
-      arbresCopy.map(obj => datafound.find(o => o.id === obj.id) || obj);
-
-      //arbresCopy[index].color = "green"
-
-      this.setState({
-        arbres: arbresCopy
-      })
-      
-      //settings
-      //console.log(this.state.greenTrees)
-      let greenTreesCopy = this.state.greenTrees.slice()
-      if (greenTreesCopy.indexOf(datafound[0].id)==-1) {
-          greenTreesCopy.push(datafound[0].id)
-      } else {
-          greenTreesCopy.splice( greenTreesCopy.indexOf(datafound[0].id), 1 )
-      }
-
-      const percent = 100*(greenTreesCopy.length / this.state.arbres.length) 
-      //console.log(percent)
-      this.setState({
-          greenTrees: greenTreesCopy,
-          discoveredPercent: percent.toFixed(2)
-      })
-
-      this.treeChanged('greenTrees', greenTreesCopy) 
-      Alert.alert("Arbre singular de BCN",item.tags.name.replace('arbre singular: ','') + "\n(" + item.tags.species + ")")
-
-
+  actionOnRow(item) {
+     console.log('Selected Item :',item);
   }
 
   actionOnSearchPos() {
+     console.log('cercar');
      this.setState({ permit_location: true, searching_location: true });
   }
 
   render() {
-
+    let styleTitleSecondary = styles.titlepos
     //cada vegada que renderitzo he d'actualitzar les distàncies
-
-    let cad_perc;
-    if (this.state.discoveredPercent > 0) {
-      cad_perc = this.state.discoveredPercent + "%"
-    } else {
-      cad_perc = "0%"
-    }
-
     let flatList;
     if (this.state.onload && this.state.location) {
+      styleTitleSecondary = styles.titlepos2
       //aquests elements els puc ordenar per distància
       var arbresCopy = this.state.arbres.slice()
       //arbresCopy[index].score += val
@@ -392,26 +268,26 @@ export default class App extends Component {
 
       flatList =   <FlatList
         data={arbresCopy}
-        keyExtractor={(item, index) => item.id.toString()}
-        renderItem={({ item, index }) => (
-          <TouchableOpacity onLongPress={ () => this.actionLongOnRow(item,index)}>
-            <Item title={item.tags.name.replace('arbre singular: ','')} distdir={item.distdir} color={item.color} />
+        keyExtractor={item => item.id.toString()}
+        renderItem={({ item }) => (
+          <TouchableOpacity onPress={ () => this.actionOnRow(item)}>
+            <Item title={item.tags.name.replace('arbre singular: ','')} distdir={item.distdir} />
           </TouchableOpacity>
         )}
       />
-      
+
       if (this.state.heading >=0 ) {
 
         flatList =   <FlatList
           data={arbresCopy}
-        keyExtractor={(item, index) => item.id.toString()}
-          renderItem={({ item, index }) => (
-            <TouchableOpacity onLongPress={ () => this.actionLongOnRow(item,index)}>
-              <Item title={item.tags.name.replace('arbre singular: ','')} distdir={item.distdir} color={item.color} heading={this.state.heading}  />
+          keyExtractor={item => item.id.toString()}
+          renderItem={({ item }) => (
+            <TouchableOpacity onPress={ () => this.actionOnRow(item)}>
+              <Item title={item.tags.name.replace('arbre singular: ','')} distdir={item.distdir} heading={this.state.heading} />
             </TouchableOpacity>
           )}
         />
-        cad_title = "(" + this.state.location.coords.latitude.toFixed(5) + "," + this.state.location.coords.longitude.toFixed(5) + ")"
+        cad_title = "(" + this.state.location.coords.latitude.toFixed(5) + "," + this.state.location.coords.longitude.toFixed(5) + ") " + this.state.heading + "º"
       } else {
         cad_title = "(" + this.state.location.coords.latitude.toFixed(5) + "," + this.state.location.coords.longitude.toFixed(5) + ")"        
       }
@@ -419,10 +295,10 @@ export default class App extends Component {
       
       flatList =   <FlatList
         data={arbresJSONFile.elements}
-        keyExtractor={(item, index) => item.id.toString()}
-        renderItem={({ item, index }) => (
-          <TouchableOpacity onLongPress={ () => this.actionLongOnRow(item,index)}>
-            <Item title={item.tags.name.replace('arbre singular: ','')} color={item.color} />
+        keyExtractor={item => item.id.toString()}
+        renderItem={({ item }) => (
+          <TouchableOpacity onPress={ () => this.actionOnRow(item)}>
+            <Item title={item.tags.name.replace('arbre singular: ','')} />
           </TouchableOpacity>
         )}
       />
@@ -441,7 +317,7 @@ export default class App extends Component {
           <Text style={styles.maintitle}>Arbres singulars de Barcelona</Text>
         </View>
         <TouchableOpacity onPress={ () => this.actionOnSearchPos()}>
-          <SearchLocation styleText={styles.titlepos} cad={cad_title} cad_perc={cad_perc} />
+          <SearchLocation styleText={styleTitleSecondary} cad={cad_title} />
         </TouchableOpacity>
 
         {flatList}
@@ -467,19 +343,16 @@ const styles = StyleSheet.create({
     marginBottom: 5
   },
 
-
-  item1red: {
-    flex: 1,
-    flexDirection: 'row',
-    backgroundColor: '#ff8a8a',
-    padding: 20,
+  item: {
+    backgroundColor: '#deb887',
+    padding: 10,
     marginVertical: 4,
     marginHorizontal: 16,
   },
-  item1green: {
+  item1: {
     flex: 1,
     flexDirection: 'row',
-    backgroundColor: '#67ff67',
+    backgroundColor: '#deb887',
     padding: 20,
     marginVertical: 4,
     marginHorizontal: 16,
@@ -499,22 +372,26 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'row',
     backgroundColor: '#ff8c00',
-    padding: 26,
+    padding: 26, //kkk
     marginVertical: 0,
-    marginBottom: 18,
+    marginBottom: 18, //kkk
     marginHorizontal: 16,
   },
   item2p: {
     backgroundColor: 'transparent',
     fontSize: 22,
     fontWeight: "bold",
-    width: 220,
-    marginVertical: -16,
+    width: 260,
+    marginVertical: -16, //kkk
+
   },
-  item3p: {
-    backgroundColor: 'transparent',
-    marginVertical: -12,
-    width:70
+  item1green: {
+    flex: 1,
+    flexDirection: 'row',
+    backgroundColor: '#228b22',
+    padding: 20,
+    marginVertical: 4,
+    marginHorizontal: 16,
   },
   title: {
     fontSize: 22,
@@ -528,6 +405,10 @@ const styles = StyleSheet.create({
   titlepos: {
     fontSize: 22,
     fontWeight: "bold"
+  },
+  titlepos2: {
+    fontSize: 18,
+    //fontWeight: "bold"
   },
   maintitle: {
     //backgroundColor: '#ff8c00',
